@@ -1,6 +1,7 @@
 import java.io.IOException;
 import java.nio.file.*;
 import java.nio.charset.StandardCharsets;
+
 public class FileHandlingUtility {
 
     // Read file content as a String
